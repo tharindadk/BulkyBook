@@ -9,7 +9,6 @@
  - C#
  - Bootstrap
  - SQL Server
- - Azure
 ## Functionalities
 
 ### Creating Book Categories
